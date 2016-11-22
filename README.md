@@ -1,2 +1,2 @@
 # eledux
-Simple document get element with sort of jquery.
+Simple document get element sort of like jquery $ selector
